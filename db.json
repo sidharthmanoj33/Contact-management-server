@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "5440",
+      "name": "sonu",
+      "email": "sonu@gmail.com",
+      "phoneno": "9887564323",
+      "group": "chemistry"
+    },
+    {
+      "id": "1016",
+      "name": "amal",
+      "email": "amal@gmail",
+      "phoneno": "9876457865",
+      "group": "physics"
+    },
+    {
+      "id": "6216",
+      "name": "manu",
+      "email": "manu@gmail",
+      "phoneno": "7865679809",
+      "group": "maths"
+    }
+  ]
+}
